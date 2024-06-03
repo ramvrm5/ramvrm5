@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ram Verma</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Full stack developer from Golden Bird India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramvrm5&label=Profile%20views&color=0e75b6&style=flat" alt="ramvrm5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramvrm5" alt="ramvrm5" /></a> </p>
 
-- 🔭 I’m currently working on [ups-clone](https://github.com/ramvrm5/ups-clone)
+- 🔭 I’m currently working on [notion-clone](https://github.com/ramvrm5/Notion-clone)
 
 - 👨‍💻 All of my projects are available at [https://ramverma-portfolio.co.in/](https://ramverma-portfolio.co.in/)
 
-- 💬 Ask me about **react, react native and node.js**
+- 💬 Ask me about **React.js, Next.js React Native and Node.js**
 
 - 📫 How to reach me **ramvrm5@gmail.com**
 

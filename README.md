@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramvrm5" alt="ramvrm5" /></a> </p>
 
-- 🔭 I’m currently working on [ups-clone](https://github.com/ramvrm5/ups-clone)
+- 🔭 I’m currently working on [Notion-clone](https://github.com/ramvrm5/Notion-clone)
 
 - 👨‍💻 All of my projects are available at [https://ramverma-portfolio.co.in/](https://ramverma-portfolio.co.in/)
 

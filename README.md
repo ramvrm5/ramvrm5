@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ramverma-portfolio.co.in/](https://ramverma-portfolio.co.in/)
 
-- 💬 Ask me about **react, react native and node.js**
+- 💬 Ask me about **react, next.js, react native expo and node.js**
 
 - 📫 How to reach me **ramvrm5@gmail.com**
 

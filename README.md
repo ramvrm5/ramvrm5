@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ram Verma</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Notion-clone](https://github.com/ramvrm5/Notion-clone)
+- 🔭 I’m currently working on [Message-app](https://github.com/ramvrm5/Messaging-app)
 
 - 👨‍💻 All of my projects are available at [https://ramverma-portfolio.co.in/](https://ramverma-portfolio.co.in/)
 
-- 💬 Ask me about **react, next.js, react native expo and node.js**
+- 💬 Ask me about **react, next.js, react native expo, taiwindCSS and node.js**
 
 - 📫 How to reach me **ramvrm5@gmail.com**
 

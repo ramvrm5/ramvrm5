@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ram Verma</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Jira-Clone](https://github.com/ramvrm5/jira-clone)
+- 🔭 I’m currently working on [Multi-Vendor E-Commerce Marketplace](https://github.com/ramvrm5/multitenant-ecommerce)
 
 - 👨‍💻 All of my projects are available at [https://ramverma-portfolio.co.in/](https://ramverma-portfolio.co.in/)
 
